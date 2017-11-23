@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mapping Location</string>
+    <string name="title_activity_maps">Mapping</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="no_location_data_provided">No Location Data Provided</string>
+    <string name="service_not_available">Service Not Available</string>
+    <string name="invalid_lat_long_used">Invalid Lat Long Used</string>
+    <string name="no_address_found">No Address Found</string>
+</resources>
